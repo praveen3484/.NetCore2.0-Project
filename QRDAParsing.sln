@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRDAParsing", "QRDAParsing\QRDAParsing.csproj", "{5AE7DF4F-8665-4129-A562-9EE18598F4A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRDAParser.DataAccess", "QRDAParser.DataAccess\QRDAParser.DataAccess.csproj", "{BC1E6AE1-D989-4ECF-85CE-6418F6C96332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRDAParsing.Services", "QRDAParsing.Services\QRDAParsing.Services.csproj", "{933CA575-840E-4346-A1EE-CE685E14FCAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRDAParsing.Model", "QRDAParsing.Model\QRDAParsing.Model.csproj", "{FFBE5BB1-F29D-4717-9341-506600EA7B8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AE7DF4F-8665-4129-A562-9EE18598F4A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE7DF4F-8665-4129-A562-9EE18598F4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE7DF4F-8665-4129-A562-9EE18598F4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE7DF4F-8665-4129-A562-9EE18598F4A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1E6AE1-D989-4ECF-85CE-6418F6C96332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1E6AE1-D989-4ECF-85CE-6418F6C96332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1E6AE1-D989-4ECF-85CE-6418F6C96332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1E6AE1-D989-4ECF-85CE-6418F6C96332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{933CA575-840E-4346-A1EE-CE685E14FCAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933CA575-840E-4346-A1EE-CE685E14FCAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933CA575-840E-4346-A1EE-CE685E14FCAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933CA575-840E-4346-A1EE-CE685E14FCAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFBE5BB1-F29D-4717-9341-506600EA7B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBE5BB1-F29D-4717-9341-506600EA7B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBE5BB1-F29D-4717-9341-506600EA7B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBE5BB1-F29D-4717-9341-506600EA7B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4233F72-CE7E-444C-8B1E-F84CE1B15C98}
+	EndGlobalSection
+EndGlobal
