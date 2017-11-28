@@ -17,7 +17,7 @@ namespace QRDAParsing.Controllers
     public class EmployeeController : Controller
     {
         IEmployeeService empservice;
-
+        
         public EmployeeController(IEmployeeService _empservice)
         {
             empservice = _empservice;
